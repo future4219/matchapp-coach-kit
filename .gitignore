@@ -1,0 +1,9 @@
+# 写真は保存しない
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.webp
+.DS_Store
+__pycache__/
