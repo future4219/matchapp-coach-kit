@@ -1,0 +1,32 @@
+{
+  "stages": ["opener", "name", "hearing", "romance", "contact", "call", "date"],
+  "stage_labels": {
+    "opener": "1通目〜あいさつ",
+    "name": "呼び方を決める",
+    "hearing": "相手のことを聞く",
+    "romance": "恋愛の話",
+    "contact": "連絡先交換（インスタ・LINEなど）",
+    "call": "電話",
+    "date": "デート"
+  },
+  "tactics": {
+    "opener_compliment": "1通目で褒める",
+    "opener_vibe": "1通目で雰囲気を褒める",
+    "opener_profile": "1通目でプロフの内容を拾う",
+    "ask_name": "呼び方を聞く",
+    "ask_type": "好きなタイプを聞く",
+    "empathy": "共感（わかる、〜よね）",
+    "kimetsuke": "相手の発言を根拠に決めつけ",
+    "homeru": "具体的に褒める",
+    "ijiri": "軽いいじり",
+    "fumikomi": "一歩踏み込む一言",
+    "callback": "前の発言を拾う",
+    "common": "共通点を出す",
+    "keigo_off": "敬語外し",
+    "romance_q": "恋愛の話に寄せる質問",
+    "contact_ask": "連絡先交換の提案",
+    "call_ask": "電話の提案",
+    "date_ask": "デートの提案"
+  },
+  "min_samples": 5
+}
